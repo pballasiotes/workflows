@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/pballasiotes/workflows/issues"
   },
-  "homepage": "https://github.com/pballasiotes/workflows#readme"
+  "homepage": "https://github.com/pballasiotes/workflows#readme",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-util": "^3.0.6"
+  }
 }
