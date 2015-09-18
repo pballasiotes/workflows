@@ -1,4 +1,4 @@
-var pixgrid = function() {
+var pixgrid = function()  {
     function centerImage(theImage) {
         var myDifX = (window.innerWidth - theImage.width) / 2, myDifY = (window.innerHeight - theImage.height) / 2;
         return theImage.style.top = myDifY + "px", theImage.style.left = myDifX + "px", 
